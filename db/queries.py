@@ -5,6 +5,6 @@ class Queries:
         name TEXT,
         age INTEGER,
         occupation TEXT,
-        salary FLOAT
+        salary TEXT
     )
     """
